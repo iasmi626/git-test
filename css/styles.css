@@ -7,16 +7,13 @@ body {
 
 div {
     background-color: rgb(247, 160, 62);
-    border: solid 10px royalblue;
+    border: solid 10px rgb(131, 240, 207);
 }
 h1,h2 {
        text-align: center
 }
 h1{ 
     font-size: 2.5;
-}
-.second-div {
-    background-color: blueviolet;
 }
 #second-li { 
     font-size: 30px;
